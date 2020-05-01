@@ -1,3 +1,4 @@
+create database movie;
 create table actor
 (
  act_id integer,
